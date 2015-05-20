@@ -1,4 +1,4 @@
-I use LaTeX to build the pdfs for *![No. 0](http://thenumberzero.blogspot.com)* articles. These are source files for the article *![A No-install Solution to Enabling/Disabling the Titlebar in Xfce ](http://thenumberzero.blogspot.com/2014/07/a-no-install-solution-to.html)*.
+I use LaTeX to build the pdfs for *![No. 0](http://thenumberzero.blogspot.com)* articles. These are source files for the article *![A No-install Solution to Enabling/Disabling the Titlebar in Xfce](http://thenumberzero.blogspot.com/2014/07/a-no-install-solution-to.html)*.
 
 ## License
 
